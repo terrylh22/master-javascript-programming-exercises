@@ -1,5 +1,7 @@
 function computeAreaOfACircle(radius) {
     // your code here
+    let squaredRadius = Math.pow(radius, 2);
+    return squaredRadius * Math.PI;
 }
 
 let output = computeAreaOfACircle(4);

@@ -1,6 +1,5 @@
 function convertScoreToGrade(score) {
     // your code here
-    
 }
 
 let output = convertScoreToGrade(91);
